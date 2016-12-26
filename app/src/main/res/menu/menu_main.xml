@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.contextuallistview.MainActivity">
+
+    <item
+        android:id="@+id/menu_main_addCustomer"
+        android:title="Add Customer"
+        app:showAsAction="always"/>
+</menu>
